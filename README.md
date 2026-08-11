@@ -9,7 +9,7 @@
 | [go/](go/) | Go 语言学习笔记（内存模型路线已规划） | 📌 进行中 |
 | [c/](c/) | C 语言前 8 周期知识字典（面向系统编程） | ✅ 已整理 |
 | [mysql/](mysql/) | MySQL 学习笔记（索引/事务/高可用） | ⏳ 未开始 |
-| [python/](python/) | Python 学习笔记 | ⏳ 未开始 |
+| [python/](python/) | Python 学习笔记（数据库操作：SQLite/MySQL/MongoDB/Redis/ORM） | ✅ 已整理 |
 | [数据库/](数据库/) | 数据库内核/存储系统（含 Redis） | 📌 进行中 |
 
 ## 使用说明
