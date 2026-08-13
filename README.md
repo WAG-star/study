@@ -8,7 +8,7 @@
 |------|------|:--:|
 | [go/](go/) | Go 语言学习笔记（内存模型路线已规划） | 📌 进行中 |
 | [c/](c/) | C 语言前 8 周期知识字典（面向系统编程） | ✅ 已整理 |
-| [mysql/](mysql/) | MySQL 学习笔记（索引/事务/高可用） | ⏳ 未开始 |
+| [mysql/](mysql/) | MySQL 学习笔记（SQLBolt 全 18 课：查询/JOIN/聚合/表结构） | ✅ 已整理 |
 | [python/](python/) | Python 学习笔记（数据库操作：SQLite/MySQL/MongoDB/Redis/ORM） | ✅ 已整理 |
 | [数据库/](数据库/) | 数据库内核/存储系统（含 Redis） | 📌 进行中 |
 | [Linux/](Linux/) | Linux 服务器实操（进程/内存/日志，Ubuntu 远程服务器） | 📌 进行中 |
