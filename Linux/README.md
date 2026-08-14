@@ -10,6 +10,8 @@
 |------|------|:--:|
 | [01-进程与内存.md](01-进程与内存.md) | Day1：ps / 进程状态 / top / free / kill / 后台任务 / 端口排查 | ✅ 已整理 |
 | [02-日志处理.md](02-日志处理.md) | Day2：日志体系 / tail / grep / awk / sort+uniq / vim / 管道链 | ✅ 已整理 |
+| [03-HTTP报文与状态码.md](03-HTTP报文与状态码.md) | Day3：报文结构 / nginx / curl / 状态码 / 方法 / 幂等 | ✅ 已整理 |
+| [04-Cookie与Token.md](04-Cookie与Token.md) | Day4：Cookie 生命周期 / Session vs Token / JWT / 环境坑 | ✅ 已整理 |
 
 ## 学习进度
 
@@ -18,7 +20,8 @@
 | Day0 | 环境就绪（SSH 密钥/安全基线） | ✅ 通关 100/100 |
 | Day1 | 进程与内存 | ✅ 通关 96/100 |
 | Day2 | 日志三件套 | ✅ 通关 96/100 |
-| Day3-4 | HTTP 全流程 | ⏳ 未开始 |
+| Day3 | HTTP 报文、状态码、方法 | ✅ 通关 92/100 |
+| Day4 | Cookie/Token/会话鉴权 | ✅ 通关 30/30 + 实操 |
 | Day5-6 | RESTful 设计与规范 | ⏳ 未开始 |
 | Day7 | 综合检验 | ⏳ 未开始 |
 
